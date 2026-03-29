@@ -13,7 +13,7 @@ Course: CSE0001
 This repository contains my Digital Literacy Portfolio. It includes tasks related to digital awareness, professional online presence, coding practice, collaboration tools, email etiquette, and cybercrime awareness.
 
 
-# Tasks Summary
+Tasks Summary
 
 #Task 1: Digital Literacy Infographic
 
