@@ -41,7 +41,7 @@ Prepared a case study on phishing and a prevention checklist.
 
 # Google Form Link
 
-PASTE_YOUR_GOOGLE_FORM_LINK_HERE
+
 
 
 # Repository Structure
