@@ -1,6 +1,7 @@
 Cybercrime Prevention Checklist:
 
 -Do not click on suspicious links or emails
+
 Use strong and unique passwords
 Enable two-factor authentication
 Avoid sharing personal information online
